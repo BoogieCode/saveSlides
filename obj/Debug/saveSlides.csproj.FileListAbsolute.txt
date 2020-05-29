@@ -1,0 +1,6 @@
+C:\Users\Boogie\source\repos\saveSlides\saveSlides\bin\Debug\saveSlides.exe.config
+C:\Users\Boogie\source\repos\saveSlides\saveSlides\bin\Debug\saveSlides.exe
+C:\Users\Boogie\source\repos\saveSlides\saveSlides\bin\Debug\saveSlides.pdb
+C:\Users\Boogie\source\repos\saveSlides\saveSlides\obj\Debug\saveSlides.csprojAssemblyReference.cache
+C:\Users\Boogie\source\repos\saveSlides\saveSlides\obj\Debug\saveSlides.exe
+C:\Users\Boogie\source\repos\saveSlides\saveSlides\obj\Debug\saveSlides.pdb
